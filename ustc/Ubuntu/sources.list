@@ -1,0 +1,5 @@
+# 19.10 for base to modify
+deb https://mirrors.ustc.edu.cn/ubuntu/ eoan main restricted universe multiverse
+deb https://mirrors.ustc.edu.cn/ubuntu/ eoan-updates main restricted universe multiverse
+deb https://mirrors.ustc.edu.cn/ubuntu/ eoan-backports main restricted universe multiverse
+deb https://mirrors.ustc.edu.cn/ubuntu/ eoan-security main restricted universe multiverse
